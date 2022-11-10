@@ -4,7 +4,10 @@
 
 ## Project Description:
 
--> The smart fire management system includes a Gas sensor, Flame sensor and temperature sensors to detect any changes in the environment. -> Based on the temperature readings and if any Gases are present the exhaust fans are powered ON. -> If any flame is detected the sprinklers will be switched on automatically. -> Emergency alerts are notified to the authorities and Fire station.
+-> The smart fire management system includes a Gas sensor, Flame sensor and temperature sensors to detect any changes in the environment. 
+-> Based on the temperature readings and if any Gases are present the exhaust fans are powered ON. 
+-> If any flame is detected the sprinklers will be switched on automatically. 
+-> Emergency alerts are notified to the authorities and Fire station.
 
 ## Web-App :- [Industry Specific Intelligent Fire Management Syste](https://fire-management-system-19220.web.app/)
 
