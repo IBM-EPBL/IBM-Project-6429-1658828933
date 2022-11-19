@@ -9,7 +9,7 @@
 -> If any flame is detected the sprinklers will be switched on automatically. 
 -> Emergency alerts are notified to the authorities and Fire station.
 
-## Web-App :- [Industry Specific Intelligent Fire Management Syste](https://fire-management-system-19220.web.app/)
+## Web-App :- [Industry Specific Intelligent Fire Management Syste](https://fire-management-sys-19220.web.app/)
 
 *   Sign Up and Login to Web App
 *   The user can view the status of the environment.
