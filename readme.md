@@ -15,6 +15,8 @@
 *   The user can view the status of the environment.
 *   The user is prompted with an alert message incase of any fire detection.
 
+#Wokwi Platform Simulation - [Industry-specific intelligent fire management system](https://wokwi.com/projects/348822881208107604)
+
 ## Python Automation :- [Python Code](https://github.com/IBM-EPBL/IBM-Project-6429-1658828933/tree/main/Project%20Development%20Phase/Sprint%201/PNT2022MID19220-Python%20code)
 
 ###Install the required python packages mentioned
