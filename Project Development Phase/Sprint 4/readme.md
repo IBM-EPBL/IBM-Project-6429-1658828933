@@ -2,7 +2,7 @@
 
 # Team Id - PNT2022TMID19220
 
-## Web-App :- [Industry Specific Intelligent Fire Management Syste](https://fire-management-system-19220.web.app/)
+## Web-App :- [Industry Specific Intelligent Fire Management Syste](https://fire-management-sys-19220.web.app/)
 
 *   Sign Up and Login to Web App
 *   The user can view the status of the environment.
